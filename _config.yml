@@ -26,6 +26,12 @@ github_username: ardinusawan
 google_analytics: UA-137828798-1
 comments: true
 
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: ardinusawan
+
 # Build settings
 markdown: kramdown
 theme: minima

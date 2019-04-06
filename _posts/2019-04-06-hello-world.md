@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Hello world from me!"
 date: 2019-04-06
 ---
