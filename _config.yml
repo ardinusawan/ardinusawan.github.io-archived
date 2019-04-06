@@ -7,6 +7,7 @@ twitter_username: ardinusawan
 github_username: ardinusawan
 google_analytics: UA-137828798-1
 comments: true
+paginate: 10
 
 # Disqus Comments
 disqus:
@@ -19,5 +20,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
-permalink: /blog/:year/:month/:day/:title
+#permalink: /blog/:year/:month/:day/:title
+paginate_path: "/blog/page:num/"
