@@ -1,7 +1,6 @@
 ---
 layout: post
-disqus-comments: false
-just-comments: true
+comments: true
 title: "Hello world from me!"
 date: 2019-04-06
 ---
