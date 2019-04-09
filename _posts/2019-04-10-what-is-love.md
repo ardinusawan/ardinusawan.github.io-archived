@@ -8,11 +8,11 @@ date: 2019-04-10
 TLDR: Love is you, always..
 <!--break-->
 
-* Always waiting me going home after work
-* Be my alarm..
-* Always there if I have bad day
-* Buying you food if I have money (even she hasn't too)
-* Call me in work hour (and chat: notice me!!)
+* <p>Always waiting me going home after work</p>
+* <p>Be my alarm..</p>
+* <p>Always there if I have bad day</p>
+* <p>Buying you food if I have money (even she hasn't too)</p>
+* <p>Call me in work hour (and chat: notice me!!)</p>
 
 etc..
 
