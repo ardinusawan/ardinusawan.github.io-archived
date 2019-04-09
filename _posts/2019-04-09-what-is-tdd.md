@@ -5,16 +5,15 @@ title: "TDD? Does it spark joy? 🤔"
 excerpt_separator: <!--break-->
 date: 2019-04-09
 ---
-<p align="center">
-  <img src="https://img.devrant.com/devrant/rant/r_151931_WgckU.jpg" alt="https://devrant.com/rants/151931/amirite"/>
-</p>
-
 <h3>TDD? What is that?</h3>
 TDD is you implementing unit testing with test driven development approach.
 
 <h3>What is unit testing?</h3>
 In computer programming, <!--break--> unit testing is a software testing  method by which individual units of source code, sets of one or more computer program modules together with associated control data, usage procedures, and operating procedures, are tested to determine whether they are fit for use. 
 
+<p align="center">
+  <img src="https://img.devrant.com/devrant/rant/r_151931_WgckU.jpg" alt="https://devrant.com/rants/151931/amirite"/>
+</p>
 
 <h3>What are the differences between TDD with unit test?</h3>
 * <p>You can have unit test without using TDD.</p>
