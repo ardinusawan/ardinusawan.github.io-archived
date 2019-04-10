@@ -2,7 +2,6 @@
 layout: post
 comments: true
 title: "What is love?"
-excerpt_separator: <!--break-->
 date: 2019-04-10
 ---
 <h3>TLDR: Love is you, always..</h3>

@@ -9,6 +9,7 @@ google_analytics: UA-137828798-1
 paginate: 10
 permalink: /blog/:year/:month/:day/:title
 paginate_path: "/blog/page:num/"
+excerpt_separator: <!--break-->
 
 markdown: kramdown
 theme: minima

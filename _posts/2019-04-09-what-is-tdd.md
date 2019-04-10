@@ -2,7 +2,6 @@
 layout: post
 comments: true
 title: "TDD? Does it spark joy? 🤔"
-excerpt_separator: <!--break-->
 date: 2019-04-09
 ---
 <h3>TDD? What is that?</h3>
