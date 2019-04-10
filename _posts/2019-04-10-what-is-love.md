@@ -11,7 +11,7 @@ date: 2019-04-10
 * <p>Always waiting me going home after work</p>
 * <p>Be my alarm..</p>
 * <p>Always there if I have bad day</p>
-* <p>Buying me food if I haven't money (even she hasn't too)</p>
+* <p>Buying me food if I haven't money (even she doesn't too)</p>
 * <p>Call me in work hour (and chat: notice me!!)</p>
 
 etc..
