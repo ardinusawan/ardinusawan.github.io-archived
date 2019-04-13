@@ -26,7 +26,7 @@ Sometimes bug hit us, and I must focus on that. That make me to buy more coffee 
 
 From 5 PM to 7 PM it depend on the task. If I already create [merge request][3] usually I comeback to see my work and thinking if any I can do better. If it not, I continue to work.
 
-Right now, there so many discount on e-wallet services. After work hours, I and several of my colleague find the nearest restaurant with best discount options :stuck_out_tongue:.We just chit - chat until one of us decided to go to home.
+After work hours, I and several of my colleague find the nearest restaurant with best discount options :stuck_out_tongue:.We just chit - chat until one of us decided to go to home.
 
 
 <p align="center">
